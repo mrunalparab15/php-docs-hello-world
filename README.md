@@ -1,17 +1,13 @@
 ---
-page_type: sample
+page_type: Meraki Captive Portal for Lionbridge SkillSoft MUM WiFi
 languages:
 - php
 products:
 - azure
-description: "This sample demonstrates a tiny Hello World PHP app for App Service."
-urlFragment: php-docs-hello-world
+description: "This PHP app is used to authenticate users connecting to SkillSoft MUM WiFi"
+urlFragment: MerakiExCap
 ---
 
-# PHP Hello World
+# Lionbridge Captive Portal Web App
 
-This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
-
-## Contributing
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This web app is used to authenticate users to Lionbridge corporate WiFi using Microsoft Entra ID as identity provider
